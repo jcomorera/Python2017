@@ -3,7 +3,7 @@
 
 x=1
 y=2
-suma=x+y
+suma=3
 z=0
 while z < 40000:
   suma= suma+(y+x)
@@ -12,5 +12,6 @@ while z < 40000:
   else:
     y=y+x
   z +=1
+
 print(suma)
-  
+print("Numero de digitos: ",len(str(suma)))
