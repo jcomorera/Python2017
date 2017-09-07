@@ -1,5 +1,5 @@
 #cantitat de polidromics  per sota de 10000
-#teoria de lychrel:
+#teoria de lychrel/algoritmo-196:
 
 def invertir(var):
   return var[::-1]
