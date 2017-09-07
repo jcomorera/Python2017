@@ -32,3 +32,5 @@ print("polidromics: ",contador01)
 print("lychrel: ",contador02)
 if (contador01+contador02) != 10000:
   print("ERROR != 10000: ",contador01+contador02)
+else:
+  print("Todo salio bien. CODE: ",contador01+contador02)
