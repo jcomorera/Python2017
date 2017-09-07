@@ -9,6 +9,8 @@ while x < 1000000:
   cadena+= str(x)
   x+=1
 
+#print(int(cadena[1:2])*int(cadena[10:11])*int(cadena[100:101])*int(cadena[1000:1001])*int(cadena[10000:10001])*int(cadena[100000:100001])*int(cadena[1000000:1000001]))   
+
 i1=int(cadena[1:2])             #d1
 i2=int(cadena[10:11])           #d10 
 i3=int(cadena[100:101])         #d100
