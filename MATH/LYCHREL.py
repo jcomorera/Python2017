@@ -29,5 +29,5 @@ while limit <= 10000:
   
 print("polidromics: ",contador)
 print("lychrel: ",contador01)
-if contador+contador01:
+if (contador+contador01) != 10000:
   print("ERROR != 10000: ",contador+contador01)
