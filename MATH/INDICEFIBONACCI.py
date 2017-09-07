@@ -18,7 +18,6 @@ while contadorx <= 1000 or contadory <= 1000:
       contadorx+=1
     if contadorx >= 1000:
       print("resultat:",contador)
-      print(contadorx)
     else:
       contadorx=0
   else:
@@ -29,7 +28,6 @@ while contadorx <= 1000 or contadory <= 1000:
       contadory+=1
     if contadory >= 1000:
       print("resultat:",contador)
-      print(contadory)
     else:
       contadory=0
       
