@@ -1,4 +1,4 @@
-#cantitat de polidromics  per sota de 10000
+#Quanitat de polidromics per sota de 10000
 #teoria de lychrel:
 
 #funció per invertir una cadena
